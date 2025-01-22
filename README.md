@@ -1,5 +1,7 @@
 # JokesWebApp
 
+![Front App Img](JokesWebApp/wwwroot/images/FrontAppPage.jpg)
+
 ## Overview
 
 JokesWebApp is a web application built using ASP.NET Core that allows users to view, create, and manage jokes. This project serves as a demonstration of modern web application development with Entity Framework Core, MVC architecture, and SQL Server for data storage.
